@@ -1,0 +1,38 @@
+main
+{
+	margin: 0 50px 10px;
+}
+article
+{
+	line-height: 170%;
+	text-align: left;
+}
+.intro
+{
+	padding: 0 10px 20px;
+	font-size: small;
+}
+.polink
+{
+	color: #00548d;
+	text-decoration: underline;
+}
+strong
+{
+	color: #d51100;
+}
+del
+{
+	color: #a3a3a3;
+}
+.cblk
+{
+	overflow-x: auto;
+	padding: 8px 15px;
+	font-family: monospace;
+	line-height: 150%;
+	white-space: nowrap;
+	background-color: #eaeaea;
+	color: #00b6bc;
+	border-radius: 3px;
+}
